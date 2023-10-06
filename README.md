@@ -4,7 +4,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Decoding\_Morse\_Code ](#-decoding_morse_code-)
+- [📖 My\_Enumerable ](#-my_enumerable-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
